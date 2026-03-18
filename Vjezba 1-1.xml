@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <ime>Ivan</ime>
+    <prezime>Horvat</prezime>
+    <JMBG>1234567890123</JMBG>
+    <datumRodenja>01.01.2001.</datumRodenja>
+    <godinaStudija>2</godinaStudija>
+    <studijskiProgram>Informatika</studijskiProgram>
+    <adresa>
+        <ulica>Matije Gupca 10</ulica>
+        <grad>Zagreb</grad>
+        <postanskiBroj>10000</postanskiBroj>
+    </adresa>
+</student>
