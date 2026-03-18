@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <ime>Ivan</ime>
+    <prezime>Horvat</prezime>
+    <JMBG>1234567890123</JMBG>
+    <datumRodenja>01.01.2001.</datumRodenja>
+    <godinaStudija>2</godinaStudija>
+    <kontakt>
+        <email>ivanhorvat@gmail.com</email>
+        <brojTelefona>0981234567</brojTelefona>
+    </kontakt>
+    <popisKolegija>
+        <kolegij>
+            <naziv>Matematika</naziv>
+            <profesor>Ante Antic</profesor>
+            <ects_bodovi>6</ects_bodovi>
+        </kolegij>
+        <kolegij>
+            <naziv>Programiranje</naziv>
+            <profesor>Ivan Ivic</profesor>
+            <ects_bodovi>5</ects_bodovi>
+        </kolegij>
+        <kolegij>
+            <naziv>Baze podataka</naziv>
+            <profesor>Marin Maric</profesor>
+            <ects_bodovi>5</ects_bodovi>
+        </kolegij>
+    </popisKolegija>
+</student>
