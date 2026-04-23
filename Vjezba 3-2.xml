@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Narudzba>
+    <Ime>Ivan</Ime>
+    <Prezime>Horvat</Prezime>
+    <MjestoStanovanja>
+        <Adresa>Matije Gupca 10</Adresa>
+        <Grad>Zagreb</Grad>
+        <Drzava>Hrvatska</Drzava>
+    </MjestoStanovanja>
+    <NaruceniArtikl>
+        <Naziv>Majica</Naziv>
+        <Kolicina>1</Kolicina>
+        <Cijena>29.99</Cijena>
+    </NaruceniArtikl>
+</Narudzba>
