@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Osoba spol="M">
+    <Ime>Ivan</Ime>
+    <Prezime>Horvat</Prezime>
+    <MjestoStanovanja>
+        <Adresa>Matije Gupca 10</Adresa>
+        <Grad>Zagreb</Grad>
+        <Drzava>Hrvatska</Drzava>
+    </MjestoStanovanja>
+    <Kontakt>
+        <Mobitel>0981234567</Mobitel>
+        <KucniTelefon>000111</KucniTelefon>
+        <Email>ivanhorvat@gmail.com</Email>
+    </Kontakt>
+</Osoba>
