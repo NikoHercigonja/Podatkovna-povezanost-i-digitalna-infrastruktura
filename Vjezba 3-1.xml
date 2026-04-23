@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dokument xmlns:n="http://primjer.com/narudzba"
+           xmlns:r="http://primjer.com/racun">
+    <n:narudzba>
+        <n:broj>N-2026-015</n:broj>
+        <n:datum>2026-04-08</n:datum>
+        <n:iznos>189.99 EUR</n:iznos>
+    </n:narudzba>
+    <r:racun>
+        <r:broj>R-2026-015</r:broj>
+        <r:datum>2026-04-08</r:datum>
+        <r:iznos>189.99 EUR</r:iznos>
+    </r:racun>
+</dokument>
