@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="Vjezba4-2.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+
+<narudzba>
+    <imeKupca>Niko</imeKupca>
+    <nazivProizvoda>Laptop</nazivProizvoda>
+    <kolicina>3</kolicina>
+    <cijena valuta="EUR">799.99</cijena>
+    <statusNarudzbe>u_obradi</statusNarudzbe>
+</narudzba>
