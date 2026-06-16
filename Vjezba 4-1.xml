@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="Vjezba4-1.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<osoba>
+    <ime>Ivana</ime>
+    <cijena>19.9</cijena>
+    <godine>28</godine>
+    <aktivan>true</aktivan>
+    <datumRodjenja>1998-10-02</datumRodjenja>
+    <vrijemePocetka>11:00:00</vrijemePocetka>
+</osoba>
