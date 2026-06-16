@@ -1,0 +1,53 @@
+{
+  "ime": "Petar",
+  "prezime": "Kovač",
+  "starost": 30,
+  "grad": "Zagreb",
+  "zaposlen": true,
+  "auti": [
+    {
+      "marka": "Ford",
+      "model": "Mustang",
+      "godina": 2018,
+      "boja": "crvena",
+      "registriran": true,
+      "cijena": 13500,
+      "kilometri": 85000,
+      "gorivo": "benzin",
+      "vlasnik_od": 2020
+    },
+    {
+      "marka": "BMW",
+      "model": "X1",
+      "godina": 2020,
+      "boja": "bijela",
+      "registriran": true,
+      "cijena": 28500,
+      "kilometri": 52000,
+      "gorivo": "dizel",
+      "vlasnik_od": 2021
+    },
+    {
+      "marka": "Fiat",
+      "model": "500",
+      "godina": 2015,
+      "boja": "plava",
+      "registriran": false,
+      "cijena": 5500,
+      "kilometri": 132000,
+      "gorivo": "benzin",
+      "vlasnik_od": 2018
+    },
+    {
+      "marka": "Volkswagen",
+      "model": "Golf 7",
+      "godina": 2016,
+      "boja": "siva",
+      "registriran": true,
+      "cijena": 16500,
+      "kilometri": 118000,
+      "gorivo": "dizel",
+      "vlasnik_od": 2019
+    }
+  ]
+}
